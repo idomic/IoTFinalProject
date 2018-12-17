@@ -17,6 +17,6 @@ This codebase is used on the hardware parts of our system to run servers, gather
 
 ## Additional information
 ### Can be found in the final paper & presentation
-Paper @ https://github.com/idomic/IoTFinalProject/blob/master/IoT%20final%20paper.pdf
-Presentation @ https://github.com/idomic/IoTFinalProject/blob/master/E6765_2018Spring_5555_ys3055_sw3092_im2492.finalPresentation.pptx.pdf
+- Paper @ https://github.com/idomic/IoTFinalProject/blob/master/IoT%20final%20paper.pdf
+- Presentation @ https://github.com/idomic/IoTFinalProject/blob/master/E6765_2018Spring_5555_ys3055_sw3092_im2492.finalPresentation.pptx.pdf
 
